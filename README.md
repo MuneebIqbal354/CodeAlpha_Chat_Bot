@@ -1,6 +1,7 @@
 <h1 align="center">Task No. 2: Chatbot</h1>
 
-This project implements a rule-based chatbot built using Python's Natural Language Toolkit (NLTK). This chatbot can engage in simple conversations, answer frequently asked questions, and provide links to useful resources. It demonstrates the basic implementation of a chatbot using the `nltk.chat.util` module.
+This project implements a rule-based chatbot built using Python's Natural Language Toolkit (NLTK). This chatbot can engage in simple conversations, answer frequently asked questions, and provide links to useful resources. It demonstrates the basic implementation of a 
+chatbot using the `nltk.chat.util` module.
 
 ### Features:
 
